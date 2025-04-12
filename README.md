@@ -66,10 +66,3 @@
 </a>
 
 </p>
-
-<br>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akram04o&show_icons=true&locale=en&layout=compact" alt="akram04o" /></p>
-<p align="left">;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akram04o&show_icons=true&locale=en" alt="akram04o" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram04o&" alt="akram04o" /></p>
